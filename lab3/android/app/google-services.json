@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155111784375",
+    "project_id": "iti-course-49ea8",
+    "storage_bucket": "iti-course-49ea8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155111784375:android:ac5323648beaa3d68db232",
+        "android_client_info": {
+          "package_name": "com.example.lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI33PjMXe7c2CyGiyNhf7ziJEpBGOz8wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

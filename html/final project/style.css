@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#top{
+    
+    height: 30;
+    background-color: green;
+    border-bottom-left-radius: 10;
+    border-bottom-right-radius: 10;
+    
+}
+#navul{
+    list-style: none ; 
+    margin: 60;   
+}
+#navul li{    
+    margin: 10px;  
+    list-style: none;
+    display: inline-block;
+    font: bold 20px agness;
+    color: lightslategray;
+}
+#navul li:hover{
+    color: darkblue;
+    cursor:pointer;
+}
+#navul li:last-child {
+    margin-left: 600px;    
+}
+#te_bu ul{
+    list-style: none ; 
+    margin: 60;   
+}
+#te_bu li{    
+    margin: 10px;  
+    list-style: none;
+    color: lightslategray;
+    font-size: 300;
+}
+#te_bu{
+    padding: 20;
+    margin: 9%;
+    width: 300;
+    height: 400;
+}
+#button{
+    background-color: green;   
+    border-top-right-radius: 30%;
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    border-bottom-left-radius: 30%;
+    width: 210px;
+    height: 40px;
+    text-align: center;
+    
+}
+#middle{
+    align-items: center;
+    align-content: center;
+    background-color: #dff8eb;
+
+    text-align: center;
+}
+#learn{
+    background-color: #4ee8e2;
+}
+#learn ul{
+    list-style: none ; 
+    margin: 60;   
+}
+#learn ul li{
+    margin: 30px ;
+    padding: 50 px;
+    display: inline-block;
+}
+#learn  h5{
+    text-align: center;
+    font-size:medium ;
+}
+#learn h3{
+    text-align: center;
+    font-size:large ;
+}
+#learning{
+       
+
+}
+#learning ul{
+    list-style: none;
+}
+#learning li{
+}
+#put{
+    margin-left: 100px;
+    margin-right: 350px;
+}
+#bfooter{
+    background-color: #4ee8e2;
+    padding-left: 30%;
+}
+#bfooter li{
+    display: inline-block;
+}
+#img2{
+   margin-left: 60%;
+   margin-top: -12%;
+}
+#fotter{
+   background-color: #00324b; 
+   padding-top: 20px;
+}
+#fotter ul{
+    list-style: none;
+}
+#fotter li{
+    display: inline-block;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#fotter td{
+    padding-left: 150px;
+    padding-right: 150px;
+    color: white;
+}
